@@ -1,5 +1,5 @@
 # D3-Data-Visualization-FreeCoodeCampo
-JSON APIs and AJAX (D3 data vizualization) - 2nd Module of the D3 Data Vizualization course.
+JSON APIs and AJAX (D3 data vizualization) - 2nd Module of the D3 Data Visualization course.
 
 Handle Click Events with JavaScript using the onclick property - My Solutions
 ```javascript
