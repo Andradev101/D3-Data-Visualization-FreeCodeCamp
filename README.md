@@ -6,10 +6,8 @@ Handle Click Events with JavaScript using the onclick property - My Solutions
 <script>
   document.addEventListener('DOMContentLoaded', function(){
     // Add your code below this line
-    document.getElementById("getMessage").onclick = function(){
-      
+      document.getElementById("getMessage").onclick = function(){
     }
-
     // Add your code above this line
   });
 </script>
