@@ -2,7 +2,7 @@
 JSON APIs and AJAX (D3 data vizualization) - 2nd Module of the D3 Data Vizualization course.
 
 Handle Click Events with JavaScript using the onclick property - My Solutions
-```
+```javascript
 <script>
   document.addEventListener('DOMContentLoaded', function(){
     // Add your code below this line
